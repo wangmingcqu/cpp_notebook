@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\wm\桌面\科研与学习\一些笔记\刷题\leetcode\leetcode\main.cpp(8,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  leetcode.vcxproj -> E:\wm\桌面\科研与学习\一些笔记\刷题\leetcode\Debug\leetcode.exe
